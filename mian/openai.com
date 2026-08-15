@@ -1,1 +1,14 @@
-1
+socks://NzIuMzcuMjE2LjY4OjQxNDU?udp=1
+socks://NjguNzEuMjQwLjIxMDo0MTQ1?udp=1
+trojan://humanity@8.6.112.6:443?peer=www.ignitelimit.com#%E2%9A%A1%20b2n.ir/v2ray-configs%20%7C%20866
+trojan://humanity@104.18.152.155:443?peer=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD(mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB)
+trojan://humanity@104.18.152.219:443?peer=www.ignitelimit.com#%F0%9F%87%AF%F0%9F%87%B5%20JP%E6%97%A5%E6%9C%AC(mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB)
+trojan://humanity@86.38.214.205:443?peer=www.ignitelimit.com#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://humanity@172.67.221.242:443?peer=www.ignitelimit.com#%E2%9A%A1%20b2n.ir/v2ray-configs%20%7C%20404
+trojan://humanity@104.18.152.152:443?peer=www.ignitelimit.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%E9%A6%99%E6%B8%AF(mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB)
+trojan://humanity@104.16.174.44:443?peer=www.ignitelimit.com#%F0%9F%87%AF%F0%9F%87%B5%20JP%E6%97%A5%E6%9C%AC(mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB)
+trojan://ND91608427@wise-bengal.rooster465.autos:443#%E2%9A%A1%20b2n.ir/v2ray-configs%20%7C%20129
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXduQDU0LjM2LjE3NC4xNDA6NDQz#@Alpha_v2rayIP
+trojan://FH72359861@master-possum.rooster465.autos:443?peer=master-possum.rooster465.autos&fingerprint=chrome#%F0%9F%87%B8%F0%9F%87%AC%20267%20-%20SG%20-%20Trojan/TLS/UTLS%20-%20443
+trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?peer=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-95.40.8.2-0151
+trojan://0010996f-3eab-4804-9b3a-3a889d6767fc@a8zbx9xj.catcat321.com:20088?allowInsecure=1&peer=iepl.krz3.cat.bilibili.com#%F0%9F%87%B0%F0%9F%87%B7KR
